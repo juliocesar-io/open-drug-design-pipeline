@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Streptomyces sp. JH010		strain: JH010	2763535	ASM2942873v1	GCA_029428735.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Contig	7656094	7718394	2023-03-27	6813	PRJNA657491	SAMN15831733
+Streptomyces sp. JH010		strain: JH010	2763535	ASM2942873v1	GCF_029428735.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Contig	7656094	7718394	2023-03-27	6821	PRJNA657491	SAMN15831733
