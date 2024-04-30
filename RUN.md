@@ -1,0 +1,1 @@
+signalp6 --fastafile JH34_GCF.fasta --organism other --output_dir /Users/juliocesar/Projects/streptomyces-discovery/data/output --format txt --mode fast
