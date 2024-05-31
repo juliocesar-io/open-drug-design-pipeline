@@ -4,6 +4,12 @@
 
 The Open Drug Design Pipeline project leverages advanced AI models to re-think an AI first approach to the drug discovery process aming for a design rather than a discovery pipeline, specifically targeting Antimicrobial Peptides (AMPs). This pipeline integrates state-of-the-art models across various stages, from initial sequence prediction to final protein design.
 
+
+
+![ui](ui.gif)
+
+_Note: This is a work in progress, some results in the are UI are mocked results from manual runs of the models._
+
 ## Base Models
 
 | Model      | Description                                                               |
