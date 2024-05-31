@@ -1,0 +1,47 @@
+{
+  "name": "open-drug-design-ui",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "build-dev": "vite build --mode dev",
+    "build-qa": "vite build --mode qa",
+    "build-uat": "vite build --mode uat",
+    "build-prod": "vite build --mode prod",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-icons/vue": "^1.0.0",
+    "@unovis/ts": "^1.4.1",
+    "@unovis/vue": "^1.4.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "epic-spinners": "^2.0.0",
+    "lucide-vue-next": "^0.378.0",
+    "radix-vue": "^1.7.4",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "vaul-vue": "^0.1.2",
+    "vue": "^3.4.21",
+    "vue3-typer": "^1.0.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-cognito-identity": "^3.583.0",
+    "@iconify-json/radix-icons": "^1.1.14",
+    "@iconify/vue": "^4.1.2",
+    "@tanstack/vue-table": "^8.17.3",
+    "@types/node": "^20.12.12",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vueuse/core": "^10.9.0",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.6.8",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vue-router": "^4.3.2",
+    "vue-tsc": "^2.0.6",
+    "zod": "^3.23.8"
+  }
+}
