@@ -169,7 +169,36 @@ import {
 
              
                 </TabsContent>
-              </Tabs>
+                
+                <TabsContent
+                  value="posing_prediction"
+                  class="border-none p-0 outline-none"
+                >
+                  <div class="flex items-center justify-between">
+                    <div class="space-y-1">
+                      <h2 class="text-2xl font-semibold tracking-tight">
+                         Prediction of binding structure for selected proteins and ligands
+                      </h2>
+                      <p class="text-sm text-muted-foreground">
+                        
+                        
+                        Predicting the binding structure of a small molecule ligand to a protein using a diffusion generative model over the non-Euclidean manifold of ligand poses. <a class="underline underline-offset-4 font-bold decoration-foreground" href="https://github.com/gcorso/DiffDock/tree/main?tab=readme-ov-file">DiffDock</a>
+                      </p>
+                      <Badge>1 Protein and Ligand processed</Badge>
+                    </div>
+                  </div>
+                  <Separator class="my-4" />
+                  <iframe
+                    src="http://192.168.1.112:7860/"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                    class="w-full h-[900px]">
+                  </iframe>
+
+             
+                </TabsContent>
+            </Tabs>
             </div>
           </div>
         </div>
